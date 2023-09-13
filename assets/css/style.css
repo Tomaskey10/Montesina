@@ -999,12 +999,16 @@ section {
     background: #ffb03b;
   }
 }
+.batido{
+  height: 10px;
+  width: 10px;
+}
 
 /*--------------------------------------------------------------
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/events-bg.jpg) center center no-repeat;
+  background: url() center center no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -1320,7 +1324,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
